@@ -1,6 +1,12 @@
 {
   "name": "backend-desafio",
   "version": "1.0.0",
+  "description": "Nesse desafio, foi criado uma aplicação para continuar treinando o que foi aprendido até agora no Node.js junto ao TypeScript, utilizando o conceito de models, repositories e services!",
+  "author": {
+    "name": "José Eduardo Rodrigues Pinto",
+    "email": "jerp4@hotmail.com",
+    "url": "https://www.linkedin.com/in/jerp"
+  },
   "main": "index.js",
   "license": "MIT",
   "scripts": {
