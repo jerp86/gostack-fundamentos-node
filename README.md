@@ -119,7 +119,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
   <a href="https://www.instagram.com/jerpbtu/">
     <img alt="José Eduardo Rodrigues Pinto" src="https://img.shields.io/badge/Instagram-@jerpbtu-833AB4?style=flat&logoColor=white&logo=instagram">
   </a>
-  <a href="https://www.instagram.com/jerpbtu/">
+  <a href="https://twitter.com/jerpbtu">
     <img alt="José Eduardo Rodrigues Pinto" src="https://img.shields.io/twitter/follow/jerpbtu?style=flat&logoColor=white&logo=Twitter">
   </a>
 </p>
