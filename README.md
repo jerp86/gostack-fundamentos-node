@@ -30,11 +30,10 @@
 
 # Indice
 
-- :rocket: [Sobre o Desafio](rocket-sobre-o-desafio)
+- :rocket: [Sobre o Desafio](#rocket-sobre-o-desafio)
 - :memo: [Específicação dos testes](#memo-específicação-dos-testes)
 - 👨‍💻️ [Tecnogias utilizadas](#%EF%B8%8F-tecnogias-utilizadas)
 - 📦️ [Como baixar o projeto](#%EF%B8%8F-como-baixar-o-projeto)
-- 🤔️ [Como contribuir](#%EF%B8%8F-como-contribuir)
 
 ---
 
